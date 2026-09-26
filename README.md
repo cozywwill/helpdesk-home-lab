@@ -1,5 +1,3 @@
-# helpdesk-home-lab
-
 # IT Helpdesk Home Lab
 
 Virtualised Windows domain built to practise tier-1 helpdesk tasks.
