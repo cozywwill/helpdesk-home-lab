@@ -6,8 +6,8 @@ Virtualised Windows domain built to practise tier-1 helpdesk tasks.
 
 ## Environment
 - Hypervisor: VirtualBox
-- Server: Windows Server 2022 (AD DS, DNS, DHCP)
-- Clients: Windows 10/11, domain-joined
+- Server: Windows Server 2016 (AD DS, DNS, DHCP)
+- Clients: Windows 10, domain-joined
 
 ## Labs Completed
 
